@@ -8,6 +8,7 @@ import "fmt"
 // 	str := recover()
 // 	fmt.Println(str)
 // }
+//test chagne
 
 //now we certainly run recovery after panic
 func main() {
